@@ -5,7 +5,7 @@ def left_rotate(arr,d,n):
 
     return None
 
-arr = [1,2,3,45]
+arr = [2,8,6,45,85]
 d = 2
 n =len(arr)
 left_rotate(arr,d,n)
